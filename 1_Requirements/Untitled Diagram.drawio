@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T22:31:03.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6_UqU62GU52A2w_kFjCm" version="14.7.4" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">1dfLctowFAbgp2HbsS35tgSapF1k03Sma9UWtiayDiPErU/fAz4Gg5yZzIQwDhvQr4ulT0bgCZs3uycrlvUzlFJPoqDcTdj3SRSFPMjw7ZDs2yTlFFRWldToHLyof5LCgNK1KuXqoqED0E4tL8MCjJGFu8iEtbC9bLYAfXnVpaikF7wUQvvpH1W6mtIwyc8VP6Sqarp0FqVtxV9RvFYW1oauZ8DItqYR3TC0xlUtStj2IvYwYXML4NpPzW4u9YG1E2v7Pb5Re5qylca9p0MUxow6bYRe08ppbm7fUWAnVMfCbKG0noMGe6xgj0GWBjHmsBSFcoedTgIsrpyFV9k1PAKwWe0ajaXwMAwY1x/m+MLcn383O2md3PUiWs+ThEY6u8cmVMtY/i1uO9GNx4KsS7bnjYwD2oO6t4enUNDNU53GPyviB4J8GzX6AGoYTaezcaGG6TVqeH9T9gFTmcUJj0ZlyrMRmHLP9KfZ4JoUGA8X1+WIhE7riGNZaFUZLBTYTaLT7ECg8BydUkWjylLfzzXKr13xbB6ADfMB2PRGrrHn+ktuQK+/MmwyBtjEg/1tRam+siv3XOP47q6p5/qstHKCRhpg9RjfodXbijC5jV6ceMdoPqTHB/D4jfAyD28OZqEV/isdNx7n13h88EfoM/FyH68WsBq5nH8Y3l2uG6YnhzrCFHLkdv5XlvFPtMPi+YnqWNd7YmUP/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-02T23:11:36.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HjDxX6ErTUSnYachnY6p" version="14.7.4" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1730" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21531" value="" style="ellipse;fillColor=#F08705;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="350" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21532" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-150" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-150" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="21534" value="Strengths:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Much more efficient for wireless communication&lt;/li&gt;&lt;li&gt;Won&#39;t hog the channel unless an event occurs&lt;/li&gt;&lt;li&gt;Capable of effectively loading the channel over its full load potential safely.&lt;/li&gt;&lt;li&gt;Much less transmission delay compared to periodically sampled data&lt;/li&gt;&lt;/ul&gt;" style="text;fontSize=24;align=left;verticalAlign=top;html=1;fontFamily=Times New Roman;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-90" width="300" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="21535" value="&lt;font face=&quot;Times New Roman&quot;&gt;Weaknesses:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Not very effective for very few elements (sensors, controllers etc.)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Without a heartbeat signal, long durations of inactivity of sensors can be easily mistaken as on availability.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="text;fontSize=24;align=left;verticalAlign=top;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="656" y="-110" width="300" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="21539" value="Opportunities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Can be used in protection systems of power grid with fault being utilized as events.&lt;/li&gt;&lt;li&gt;Highly recommended for satellite to satellite communication.&lt;/li&gt;&lt;/ul&gt;" style="text;align=left;html=1;fontSize=24;whiteSpace=wrap;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="150" y="420" width="320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2Fz3uqDlZ0QvvNZZDg0G-21542" value="" style="ellipse;fillColor=#bac8d3;opacity=60;strokeColor=#23445d;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="2Fz3uqDlZ0QvvNZZDg0G-21543" value="Threats:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Not suitable for highly dynamic systems or systems that require close monitoring.&lt;/li&gt;&lt;li&gt;Power consumption can vary according to the style of triggering implemented.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="393" width="260" height="417" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
