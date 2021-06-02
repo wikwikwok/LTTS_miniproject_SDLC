@@ -1,1 +1,5 @@
+#Requirements
 
+##Purpose
+* To identify the state of each sensor in the system.
+* To allow transmission based on the sensor status and overall system status.
