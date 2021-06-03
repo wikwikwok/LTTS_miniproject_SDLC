@@ -7,7 +7,7 @@ Making a controller work on event triggering scheme that transmits data only in 
 | ```1_Requirements```    | Requirements analysis of the project|
 |```2_Architecture```     | Detail Design is provided|
 |```3_Implementation```   | All code related files|
-|```4_TestPlanAndOutput```| Details of Test Plan|
+|```4_Testing```| Details of Test Plan|
 
 ## Contributors List and Summary
 
@@ -15,6 +15,9 @@ Making a controller work on event triggering scheme that transmits data only in 
    |:---------------:| :---------------: | :---------------:| :---------------:| :---------------:| ---------------:| 
    | Nikhil Raj     | Event-Triggered Sampling V/S Periodic Sampling       | NIL               |  NIL              |    2             | 2           |
 
+## Tools used
+* Arduino uno (with HC05 Bluetooth module)
+* MIT App Inventor
 ## Challenges Faced and Overcame
 Showing 2 different types of sampling from an NCS at the same time -> later solved using two system approach
 
